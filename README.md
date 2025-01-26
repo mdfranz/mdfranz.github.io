@@ -1,6 +1,6 @@
 # Blog Sites
-- https://blog.mdfranz.com/
-- https://mdfranz.medium.com/
+- [blog.mdfranz.com](https://blog.mdfranz.com/)
+- [mdfranz.medium.com](https://mdfranz.medium.com/)
 
 # Social Media
-- https://bsky.app/profile/mdfranz.com
+- [bsky](https://bsky.app/profile/mdfranz.com)
